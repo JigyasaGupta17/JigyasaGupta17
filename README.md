@@ -1,7 +1,6 @@
 # Jigyasa Gupta  
 📍 Data Analyst | 5⭐ SQL (HackerRank) | Python | Power BI | Automation  
-📧 **Email:** jigyasa1701@gmail.com  
-📞 **Phone:** +91 8881134239  
+📧 **Email:** jigyasa1701@gmail.com   
 🔗 [GitHub](https://github.com/JigyasaGupta17) | [LinkedIn]((https://www.linkedin.com/in/jigyasa-gupta17/))  
 
 ---
